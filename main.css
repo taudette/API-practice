@@ -1,0 +1,77 @@
+#quote-module {
+  border:1px dotted #888;
+  background:#EEE;
+  min-height:200px;
+}
+.head{
+	background-color: grey;
+}
+
+.light-bottom{
+	border-bottom: 1px solid lightgrey;
+}
+
+.heavy-top{
+	border-top: 2px solid grey
+}
+td{
+	padding:5px;
+}
+
+.shadow{
+	color:grey;
+	font-size: 70%;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.green{
+	color: green;
+}
+
+.no-border{
+	border-bottom: none;
+}
+
+.times{
+	font-family: Times;
+}
+
+.larger{
+	font-size: 130%;
+}
+
+.dark-grey{
+	color: #4C4C4C;
+}
+
+.padding{
+	padding-top:25px;
+	padding-bottom: 25px;
+}
+
+.padding-top{
+	padding-top: 10px;
+}
+
+.right{
+	text-align: right;
+}
+
+.quote-input{
+	border:1px solid lightgrey;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	height:27px;
+}
+.quote-button{
+	border:1px solid lightgrey;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding-left: 25px;
+	padding-right: 25px;
+	background-color: #FAFAFA;
+}
+
